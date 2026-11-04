@@ -1,0 +1,19 @@
+Nimbus Robotics — Employee Handbook (Excerpt)
+
+About Nimbus Robotics
+Nimbus Robotics is a fictional company founded in 2019 in Portland, Oregon. The company designs autonomous warehouse robots called "Drift units." As of 2026, Nimbus employs 412 people and operates three facilities: the Portland headquarters, a manufacturing plant in Reno, Nevada, and a research lab in Austin, Texas.
+
+Paid Time Off
+Full-time employees accrue 18 days of paid time off (PTO) per year during their first two years. After two years of service, the accrual increases to 24 days per year. PTO must be requested at least five business days in advance through the Nimbus HR portal. Unused PTO rolls over, but employees may carry a maximum of 10 days into the next calendar year.
+
+Remote Work Policy
+Nimbus follows a hybrid model. Engineers are expected to be on-site at least two days per week, Tuesday and Thursday. Fully remote arrangements require approval from a director and are reviewed every six months. The company provides a 500 dollar annual stipend for home office equipment.
+
+The Drift Unit
+The flagship product, the Drift D3, can carry payloads up to 55 kilograms and operates for 11 hours on a single charge. It navigates using a combination of LIDAR and computer vision. The D3 was released in March 2025 and has a top speed of 2.1 meters per second. Its onboard software is updated over the air every two weeks.
+
+Security and Badges
+All employees must wear their Nimbus badge at all times inside the facilities. Lost badges should be reported to the security desk within 24 hours. A replacement badge costs 25 dollars, deducted from the next paycheck. Tailgating — allowing another person to follow you through a secured door — is strictly prohibited.
+
+Parental Leave
+Nimbus offers 16 weeks of fully paid parental leave to all new parents, regardless of gender, which can be taken any time within the first year after a child's birth or adoption. Leave can be taken in up to three separate blocks.

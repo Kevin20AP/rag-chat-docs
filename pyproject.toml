@@ -1,0 +1,28 @@
+[project]
+name = "rag-chat-docs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Kevin20AP", email = "apkevin2027@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=2.3.0",
+    "fastapi>=0.162.0",
+    "numpy>=2.5.4",
+    "pgvector>=0.5.1",
+    "psycopg[binary]>=3.3.6",
+    "pypdf>=6.21.4",
+    "python-dotenv>=1.2.4",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=6.2.0",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[project.scripts]
+rag-chat-docs = "rag_chat_docs:main"
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"
